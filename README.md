@@ -37,13 +37,13 @@ storage.<br><br>
 
 6. Algorithm Overview<br>
 
-i. Upload crop image.<br>
-ii. Segment and enhance leaf area.<br>
-iii. Extract features like texture and color.<br>
-iv. Classify crop type using ResNet.<br>
-v. Detect specific disease (if any).<br>
-vi. Display diagnosis with confidence score.<br>
-vii. Recommend treatments.<br><br>
+&nbsp;i. Upload crop image.<br>
+&nbsp;ii. Segment and enhance leaf area.<br>
+&nbsp;iii. Extract features like texture and color.<br>
+&nbsp;iv. Classify crop type using ResNet.<br>
+&nbsp;v. Detect specific disease (if any).<br>
+&nbsp;vi. Display diagnosis with confidence score.<br>
+&nbsp;. Recommend treatments.<br><br>
 
 6. Results<br>
 ● System accurately diagnosed multiple diseases in crops like tomato and corn.<br>
