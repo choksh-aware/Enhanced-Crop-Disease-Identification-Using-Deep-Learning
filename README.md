@@ -62,3 +62,14 @@ This research presents a scalable, intelligent crop disease detection system usi
 deep learning.<br> It automates disease diagnosis and provides actionable suggestions,
 empowering farmers to improve crop health and yield. With its modular design, real-time
 functionality, it is a strong step toward smart, sustainable agriculture.
+<br><br><br><br>
+
+![Demo1_Home](https://github.com/user-attachments/assets/98c72995-221e-4768-8d53-d8075d34d411)
+
+<img width="1541" height="687" alt="Demo2_Features" src="https://github.com/user-attachments/assets/72b72ebe-ba1b-43d1-b675-14ef5e1613fc" />
+<img width="681" height="659" alt="Demo3_Test" src="https://github.com/user-attachments/assets/adb1216d-31ab-41d1-ac38-278f9168941e" />
+
+<img width="1601" height="598" alt="Demo4_About" src="https://github.com/user-attachments/assets/244d853f-ba21-4f39-b6f0-e2ddd54c0aa2" />
+<img width="1344" height="779" alt="Demo5_Result" src="https://github.com/user-attachments/assets/9c7a4dbf-6188-428b-8b0e-45d6306bdc84" />
+
+
