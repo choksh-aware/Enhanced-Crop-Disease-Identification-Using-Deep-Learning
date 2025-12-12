@@ -43,7 +43,7 @@ storage.<br><br>
 &nbsp;iv. Classify crop type using ResNet.<br>
 &nbsp;v. Detect specific disease (if any).<br>
 &nbsp;vi. Display diagnosis with confidence score.<br>
-&nbsp;. Recommend treatments.<br><br>
+&nbsp;vii. Recommend treatments.<br><br>
 
 6. Results<br>
 ● System accurately diagnosed multiple diseases in crops like tomato and corn.<br>
