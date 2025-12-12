@@ -9,7 +9,7 @@ quality. Traditional diagnosis methods are manual, error-prone, and inaccessible
 farmers. This project aims to solve that using deep learning, enabling automated disease
 detection from leaf images, allowing early and efficient interventions.<br><br>
 
-2. Objectives
+2. Objectives<br>
 ● Build a robust system using deep CNNs to identify crops and diseases.<br>
 ● Apply transfer learning with models like ResNet for improved accuracy.<br>
 ● Develop a user-friendly interface for farmers to upload images and get real-time
@@ -37,13 +37,13 @@ storage.<br><br>
 
 6. Algorithm Overview<br>
 
-1. Upload crop image.<br>
-2. Segment and enhance leaf area.<br>
-3. Extract features like texture and color.<br>
-4. Classify crop type using ResNet.<br>
-5. Detect specific disease (if any).<br>
-6. Display diagnosis with confidence score.<br>
-7. Recommend treatments.<br><br>
+i. Upload crop image.<br>
+ii. Segment and enhance leaf area.<br>
+iii. Extract features like texture and color.<br>
+iv. Classify crop type using ResNet.<br>
+v. Detect specific disease (if any).<br>
+vi. Display diagnosis with confidence score.<br>
+vii. Recommend treatments.<br><br>
 
 6. Results<br>
 ● System accurately diagnosed multiple diseases in crops like tomato and corn.<br>
